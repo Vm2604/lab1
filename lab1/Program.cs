@@ -16,7 +16,7 @@ namespace lab1
 
                 //x- первое числа
                 //y - второе числа
-                // z - результат
+                // z - Решение
                 Console.WriteLine("Введите ваше первое  число.");
                 x = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Ваше число : " + x);
